@@ -11,3 +11,5 @@ A simple noughts and crosses game built using the Scrimba course [Build Tic Tac 
 
 ## Setup
 In the project directory, run npm start
+
+## ToDo
