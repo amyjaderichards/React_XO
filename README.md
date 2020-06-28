@@ -10,6 +10,6 @@ A simple noughts and crosses game built using the Scrimba course [Build Tic Tac 
 - React
 
 ## Setup
-In the project directory, run npm start
+In the project directory, run `npm start`
 
 ## ToDo
